@@ -18,11 +18,11 @@ global.github = process.env.GITHUB || "https://github.com/Bot-hostin/DRK-RAGNA-1
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/vRR63CN.jpeg,https://i.imgur.com/ovCfp9J.jpeg,https://i.imgur.com/edzo5dj.jpeg";
-global.devs = "https://wa.me/50931461936 , https://wa.me/50931461936";
-global.sudo = process.env.SUDO || "50931461936";
-global.owner = process.env.OWNER_NUMBER || "PUT YOUR OWNER NUMBER";
+global.devs = "https://wa.me/919262650175 , https://wa.me/97698045414";
+global.sudo = process.env.SUDO || "97698045414";
+global.owner = process.env.OWNER_NUMBER || "97698045414,919262650175";
 global.style = process.env.STYLE || "3";
-global.gdbye = process.env.GOODBYE || "false";
+global.gdbye = process.env.GOODBYE || "true";
 global.wlcm = process.env.WELCOME || "true";
 global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
@@ -49,11 +49,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`BRAND PRODUCT OF 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨`",
-  author: process.env.PACK_AUTHER || " 𝙎-𝙏𝞢𝞜",
-  packname: process.env.PACK_NAME || "𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨",
-  botname: process.env.BOT_NAME || "ST┘𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨𖤐",
-  ownername: process.env.OWNER_NAME || "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑",
+  caption: process.env.CAPTION || "`BRAND PRODUCT OF ❤️⃝⃪ѕмαятуѕує∂❤️⃝⃪●┼┼",
+  author: process.env.PACK_AUTHER || " ❤️⃝⃪ѕмαятуѕує∂❤️⃝⃪●┼┼",
+  packname: process.env.PACK_NAME || "❤️⃝⃪ѕмαятуѕує∂❤️⃝⃪●┼┼",
+  botname: process.env.BOT_NAME || "𖤐SANJU ROCKSTAR",
+  ownername: process.env.OWNER_NAME || "❤️⃝⃪ѕмαятуѕує∂❤️⃝⃪●┼┼",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
